@@ -11,3 +11,6 @@
 - Finale Presentation(https://drive.google.com/file/d/1YqfdQO_QFzF4lGxobqo6eiSxnMwCc5JA/view?usp=sharing)
 ## kaggle
 - 케글 튜토리얼 및 컴피티션 코드 업로드
+
+## Corona
+https://www.youtube.com/watch?v=y-oJYSoUNyI&feature=youtu.be
