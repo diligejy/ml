@@ -5,3 +5,6 @@ ml_silmu100/ch1/rawdata
 ml_silmu100/ch1/output
 personal_recommendation/raw_data
 **/rawdata/
+*.csv
+**.csv
+**/**.csv
