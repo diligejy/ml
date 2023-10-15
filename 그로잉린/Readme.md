@@ -1,0 +1,1 @@
+1. [[BigS] Transfer Learning : 적은 노력으로 좋은 모델을!](https://youtu.be/p0vN1gA7FSc)
